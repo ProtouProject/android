@@ -272,6 +272,10 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
+  
+  <project path="device/htc/protou" name="ProtouProject/android_device_htc_protou" />
+  <project path="vendor/htc/protou" name="ProtouProject/android_vendor_htc_protou" />
+  <project path="kernel/htc/protou" name="ProtouProject/android_kernel_htc_protou" />
 
-  <project path="android" name="CyanogenMod/android" />
+  <project path="android" name="ProtouProject/android" />
 </manifest>
