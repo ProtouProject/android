@@ -276,6 +276,7 @@
   <project path="device/htc/protou" name="ProtouProject/android_device_htc_protou" />
   <project path="vendor/htc/protou" name="ProtouProject/android_vendor_htc_protou" />
   <project path="kernel/htc/protou" name="ProtouProject/android_kernel_htc_protou" />
+  <project path="device/htc/common" name="ProtouProject/android_device_htc_common" />
 
   <project path="android" name="ProtouProject/android" />
 </manifest>
