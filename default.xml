@@ -335,4 +335,7 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
+  
+  <project path="kernel/htc/protou" name="ProtouProject/android_kernel_htc_protou" revision="cm-10.1" />
+  <project path="device/htc/common" name="ProtouProject/android_device_htc_common" revision="ics" />
 </manifest>
