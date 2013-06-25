@@ -382,4 +382,6 @@
   <project path="hardware/qcom/display-legacy" name="legaCyMod/android_hardware_qcom_display-legacy" revision="cm-10.1" />
   <project path="device/htc/common" name="ProtouProject/android_device_htc_common" revision="ics" />
   <project path="kernel/htc/protou" name="ProtouProject/android_kernel_htc_protou" revision="cm-10.1" />
+  <project path="device/htc/protou" name="ProtouProject/android_device_htc_protou" revision="cm-10.1" />
+  <project path="vendor/htc/protou" name="ProtouProject/android_vendor_htc_protou" revision="cm-10.1" />
 </manifest>
