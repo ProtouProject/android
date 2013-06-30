@@ -372,12 +372,12 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
   
-  <project path="external/libncurses" name="legaCyMod/android_external_libncurses" revision="cm-10.1" />
+  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" revision="cm-10.1" />
   <project path="frameworks/av" name="ProtouProject/android_frameworks_av" revision="cm-10.1" />
-  <project path="frameworks/native" name="legaCyMod/android_frameworks_native" revision="cm-10.1" />
-  <project path="hardware/libhardware_legacy" name="legaCyMod/android_hardware_libhardware_legacy" revision="cm-10.1" />
-  <project path="system/core" name="legaCyMod/android_system_core" revision="cm-10.1" />
-  <project path="system/netd" name="legaCyMod/android_system_netd" revision="cm-10.1" />
+  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" revision="cm-10.1" />
+  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" revision="cm-10.1" />
+  <project path="system/core" name="CyanogenMod/android_system_core" revision="cm-10.1" />
+  <project path="system/netd" name="CyanogenMod/android_system_netd" revision="cm-10.1" />
   <project path="hardware/qcom/media-legacy" name="legaCyMod/android_hardware_qcom_media-legacy" revision="cm-10.1" />
   <project path="hardware/qcom/display-legacy" name="legaCyMod/android_hardware_qcom_display-legacy" revision="cm-10.1" />
   <project path="device/htc/common" name="ProtouProject/android_device_htc_common" revision="ics" />
