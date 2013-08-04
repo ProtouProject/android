@@ -421,4 +421,5 @@
   
   <project path="device/htc/common" name="ProtouProject/android_device_htc_common" />
   <project path="device/htc/protou" name="ProtouProject/android_device_htc_protou" />
+  <project path="vendor/htc/protou" name="ProtouProject/android_vendor_htc_protou" />
 </manifest>
